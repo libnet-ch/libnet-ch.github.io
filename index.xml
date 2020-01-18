@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>LibNet</title>
-    <link>https://www.libnet.cf/</link>
+    <link>https://libnetp.cf/</link>
     <description>Recent content on LibNet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cn</language>
     <lastBuildDate>Fri, 17 Jan 2020 01:27:45 -0500</lastBuildDate>
     
-	<atom:link href="https://www.libnet.cf/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://libnetp.cf/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First Post</title>
-      <link>https://www.libnet.cf/posts/my-first-post/</link>
+      <link>https://libnetp.cf/posts/my-first-post/</link>
       <pubDate>Fri, 17 Jan 2020 01:27:45 -0500</pubDate>
       
-      <guid>https://www.libnet.cf/posts/my-first-post/</guid>
+      <guid>https://libnetp.cf/posts/my-first-post/</guid>
       <description></description>
     </item>
     
